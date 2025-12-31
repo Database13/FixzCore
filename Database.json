@@ -1,17 +1,6 @@
-[
-  {
-    "username": "admin",
-    "password": "admin123",
-    "role": "owner"
-  },
-  {
-    "username": "user1",
-    "password": "user123",
-    "role": "premium"
-  },
-  {
-    "username": "tester",
-    "password": "tester123",
-    "role": "free"
-  }
-]
+{
+  "tokens": [
+    "8229131774:AAEHGATi0Zc3Ibf349lN6ShU4grh4X13rt4",
+    "7552977687:AAF8HZiaAfqyVhD3kwI_giFsmnzU1r5y3Lo"
+  ]
+}
